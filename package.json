@@ -1,0 +1,21 @@
+{
+  "name": "pdf-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "jaridwade",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.18.5",
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-npm-run": "0.0.3",
+    "pdfkit": "^0.8.0",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
